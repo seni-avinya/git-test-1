@@ -31,3 +31,6 @@ this is demo code
 this is new code from branch 2
 
 this is code form master branch.....
+
+
+this is new code from branch 2 after commited in master(main) branch
